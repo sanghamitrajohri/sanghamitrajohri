@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanghamitrajohri
 - 👀 I’m interested in Computervision and Robotics
-- 🌱 I’m currently learning ...-
+- 🌱 I’m currently learning different algorithms used for image detection and classification of EMG Signals
 -💞️ I’m looking to collaborate on real time projects related to computervision
 - 📫 How to reach me - https://www.linkedin.com/in/sanghamitra-johri/
 
