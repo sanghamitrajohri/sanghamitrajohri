@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanghamitrajohri
 - 👀 I’m interested in Computervision and Robotics
-- 🌱 I’m currently learning different algorithms used for image detection and classification of EMG Signals
--💞️ I’m looking to collaborate on real time projects related to computervision
+- 🌱 I’m currently working at 4 Pilots as a computer Vision Engineer
+-💞️ I’m looking to collaborate on real time projects related to computervision and Robotics.Recenty, have been facinated by UAVs.!!
 - 📫 How to reach me - https://www.linkedin.com/in/sanghamitra-johri/
 
 <!---
