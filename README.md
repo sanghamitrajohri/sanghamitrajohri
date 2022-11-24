@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanghamitrajohri
 - 👀 I’m interested in Computervision and Robotics
-- 🌱 I was currently working as a Project Engineer at Newspace Research and Technologies, Bangalore. Dealing with the computer vision problem statements for Swarm UAVS and Fixed Wings.
+- 🌱 I was currently doing MS in Electrical Engineering , specialization in Computer vision and Robotics. Working as a Research Assistant in UW - Autonomous Flight systems Lab.
 
 -💞️ I’m looking to collaborate on real time projects related to computervision and Robotics.
 - 📫 How to reach me - https://www.linkedin.com/in/sanghamitra-johri/
