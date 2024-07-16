@@ -36,7 +36,6 @@ I'm always eager to collaborate on exciting projects and explore new opportuniti
 
 ---
 
-Feel free to adjust the links and details according to your actual work and available online resources.
   
 -  My resume  - https://drive.google.com/file/d/1wv8STWMYXXhqJ_bbGzRsyJ7euCNZK6EY/view?usp=sharing
 - 📫 How to reach me - https://www.linkedin.com/in/sanghamitra-johri/
