@@ -32,7 +32,7 @@ Throughout my academic journey, I have undertaken various courses that have hone
 
 ### 🚀 Let's Connect!
 
-I'm always eager to collaborate on exciting projects and explore new opportunities in the fields of computer vision, robotics, and autonomous systems. Feel free to connect with me on [LinkedIn] (https://www.linkedin.com/in/sanghamitra-johri/) 
+I'm always eager to collaborate on exciting projects and explore new opportunities in the fields of computer vision, robotics, and autonomous systems. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanghamitra-johri/) 
 
 ---
 
