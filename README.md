@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @sanghamitrajohri
-- 👀 I’m interested in Computervision and Robotics (especially about drones)
-- 🌱 I am a Masters in Science graduate in Electrical Engineering , specialization in Computer vision and Robotics from Univesity of Washington, Seattle. I worked as a Research Assistant in UW - Autonomous Flight systems Lab under Prof. Karen Leung. Our team has worked on BVLOS (Beyond Visual of Line of Sight) UAV Systems for wilderness search and rescue missions. Also,  deployed a pipeline for deploying vison and path planning algorithms. Here is the link of the research paper published in AIAA Scitech 2024 and flight testing. [paper](https://arc.aiaa.org/doi/10.2514/6.2024-1695)  [flight testing](https://www.youtube.com/@UWControlandTrustworthyR-nc8km)
-
-  Here is a suggested GitHub bio for your profile:
-
----
-
 👋 **Welcome to my GitHub!**
 
 I am a Master of Science graduate in Electrical Engineering with a specialization in Computer Vision and Robotics from the University of Washington, Seattle. My passion lies in leveraging cutting-edge technology to solve real-world problems, particularly in the field of autonomous systems and drones.
@@ -21,7 +13,7 @@ Under the guidance of Prof. Karen Leung, I had the incredible opportunity to lea
 - **Path Planning:** Creating robust path planning algorithms to ensure efficient and safe navigation of UAVs through unpredictable environments.
 - **Pipeline Deployment:** Successfully deploying a comprehensive pipeline that integrates vision and path planning algorithms, ensuring seamless operation during flight tests.
 
-Our work culminated in the publication of a research paper in AIAA Scitech 2024, showcasing our advancements and findings. You can read more about it [here](#). Additionally, we conducted extensive flight testing to validate our system's performance, which you can watch [here](#).
+Our work culminated in the publication of a research paper in AIAA Scitech 2024, showcasing our advancements and findings. You can read more about it [paper](https://arc.aiaa.org/doi/10.2514/6.2024-1695). Additionally, we conducted extensive flight testing to validate our system's performance, which you can watch [flight testing](https://www.youtube.com/@UWControlandTrustworthyR-nc8km).
 
 ### 📚 Courses & Skills
 
@@ -41,7 +33,7 @@ Throughout my academic journey, I have undertaken various courses that have hone
 
 ### 🚀 Let's Connect!
 
-I'm always eager to collaborate on exciting projects and explore new opportunities in the fields of computer vision, robotics, and autonomous systems. Feel free to connect with me on [LinkedIn](#) or explore my repositories to see some of my work in action!
+I'm always eager to collaborate on exciting projects and explore new opportunities in the fields of computer vision, robotics, and autonomous systems. Feel free to connect with me on [[LinkedIn] (https://www.linkedin.com/in/sanghamitra-johri/) or explore my repositories to see some of my work in action!
 
 ---
 
